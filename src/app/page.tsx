@@ -58,9 +58,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2>
-            Learn <span>-&gt;</span>
-          </h2>
+          <h2>Learn</h2>
           <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
         </a>
 
@@ -71,9 +69,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Templates <span>-&gt;</span>
+            Template <span>-&gt;</span>
           </h2>
-          <p>Explore starter templates for Next.js.</p>
+          <p>Explore start templates for Next.js.</p>
         </a>
 
         <a
